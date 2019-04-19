@@ -1,0 +1,72 @@
+Insert: 1
+load: 0
+delete: 0
+find: 0
+min: 0
+max: 0
+successor: 0
+inorder: 0
+maxElem: 1
+currentElem: 1
+time: 5998.0
+
+Insert: 1
+load: 0
+delete: 0
+find: 0
+min: 0
+max: 0
+successor: 0
+inorder: 1
+maxElem: 1
+currentElem: 1
+time: 8597.0
+
+Insert: 1
+load: 1
+delete: 0
+find: 0
+min: 0
+max: 0
+successor: 0
+inorder: 1
+maxElem: 56
+currentElem: 56
+time: 23501.0
+
+Insert: 1
+load: 1
+delete: 0
+find: 1
+min: 0
+max: 0
+successor: 0
+inorder: 1
+maxElem: 56
+currentElem: 56
+time: 30170.0
+
+Insert: 1
+load: 1
+delete: 0
+find: 1
+min: 0
+max: 0
+successor: 0
+inorder: 2
+maxElem: 56
+currentElem: 56
+time: 34512.0
+
+Insert: 1
+load: 1
+delete: 0
+find: 2
+min: 0
+max: 0
+successor: 0
+inorder: 2
+maxElem: 56
+currentElem: 56
+time: 61703.0
+

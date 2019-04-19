@@ -1,0 +1,22 @@
+BinaryTree
+Avr Time of Insert: 0.003
+Avr Time of Find: 0.002
+Avr Time of Successor: 0.0
+Time of Min: 0.0
+Time of Max: 1.0
+Avr Time of Inorder: 60.0
+
+Avr Time of Delete: 0.0
+RedBlackTree
+Avr Time of Insert: 0.001
+Avr Time of Find: 0.001
+Avr Time of Successor: 0.0
+Time of Min: 0.0
+Time of Max: 0.0
+Avr Time of Inorder: 55.0
+
+Avr Time of Delete: 0.0
+HMap
+Avr Time of Insert: 0.001
+Avr Time of Find: 0.0
+Avr Time of Delete: 0.001
